@@ -1,13 +1,13 @@
+# Goal
+This repo is intended to be a repository for my learnings in [James](#1). I will use it in conjunction with the [Stanford Course](https://www.edx.org/learn/statistics/stanford-university-statistical-learning?index=product&queryID=897d4ba5f455937c19c8c749db15ac94&position=5&linked_from=autocomplete&c=autocomplete).
+
+The goal is to complete the course and to collect all the knowledge into this repository. Over time I will refine the information into a complete reference to Statistical Learning with references from other sources.
+
 # TODO
-## 02 Statisical Learning
-### 01 Definitions
-#### 2.1 What Is Statistical Learning?
-- Figure 2.2: Right figure needs the residual sum of squares lines. (Use splines)
-- Figure 2.3: 3D plot of income vs education vs seniority
-#### 2.1.1 Why Estimate $f$?
-- Figure 2.4: 3D least squares linear fit income vs education vs seniority
-- Figure 2.5: Remake of 2.3 smooth thin-plate spline fit
-- Figure 2.6: Remake of 2.6. Rough thin-plate spline fit 
-- Figure 2.7: Flexibility vs Interpretability
-- Figure 2.8: Clustering
-- Figure 2.9:
+
+# DONE
+- Plotting residuals; created a [function](./99DataSets/03+Plotting+Residuals.ipynb)
+
+# References
+<a id="1">[1]</a>
+James, G., Witten, D., Hastie, T., & Tibshirani, R. (2022). _An introduction to statistical learning: with Applications in R_. Springer.
