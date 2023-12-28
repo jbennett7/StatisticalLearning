@@ -11,3 +11,5 @@ The goal is to complete the course and to collect all the knowledge into this re
 # References
 <a id="1">[1]</a>
 James, G., Witten, D., Hastie, T., & Tibshirani, R. (2022). _An introduction to statistical learning: with Applications in R_. Springer.
+<a id="2">[2]</a>
+Freedman, D. (1998). Statistics.
