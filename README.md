@@ -12,4 +12,8 @@ The goal is to complete the course and to collect all the knowledge into this re
 <a id="1">[1]</a>
 James, G., Witten, D., Hastie, T., & Tibshirani, R. (2022). _An introduction to statistical learning: with Applications in R_. Springer.  
 <a id="2">[2]</a>
-Freedman, D. (1998). Statistics.
+Freedman, D. (1998). Statistics.   
+<a id="3">[3]</a>
+Boslaugh, S. (2012). Statistics in a nutshell. “O’Reilly Media, Inc.”  
+<a id="4">[4]</a>
+Adler, J. (2012). R in a Nutshell. “O’Reilly Media, Inc.”
